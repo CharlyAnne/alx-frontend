@@ -19,7 +19,7 @@ a {
 .visually-hidden {
   display: none;
 }
-.card-categorgy {
+.card-category {
   color: var(--color-primary);
 }
 .section-tagline {
