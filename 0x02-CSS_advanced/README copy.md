@@ -33,7 +33,6 @@
 ![GNU_Bash](https://img.shields.io/badge/≡-GNU_Bash-4EAA25?logo=GNU-Bash&style=flat-square&labelColor=282828)
 ![Node.js](https://img.shields.io/badge/≡-Node.js-339933?logo=Node.js&style=flat-square&labelColor=282828)
 ![Vim](https://img.shields.io/badge/≡-Vim-019733?logo=Vim&style=flat-square&logoColor=019733&labelColor=282828)
-![Pop!_OS](https://img.shields.io/badge/≡-Pop!_OS-48B9C7?logo=Pop_OS&style=flat-square&labelColor=282828)
 ![VS_Code](https://img.shields.io/badge/≡-VS_Code-007ACC?logo=visual-studio-code&style=flat-square&logoColor=007ACC&labelColor=282828)
 ![CSS3](https://img.shields.io/badge/≡-CSS3-1572B6?logo=CSS3&style=flat-square&logoColor=1572B6&labelColor=282828)
 ![jQuery](https://img.shields.io/badge/≡-jQuery-0769AD?logo=jQuery&style=flat-square&logoColor=0769AD&labelColor=282828)
