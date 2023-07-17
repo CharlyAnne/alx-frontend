@@ -279,7 +279,7 @@ a:active {
   padding: var(--section-header-padding);
 }
 .section-hero {
-  background-size: 90rem 0;
+  background-size: 90rem auto;
 }
 .section-hero .section-title {
   margin-bottom: 5rem;
