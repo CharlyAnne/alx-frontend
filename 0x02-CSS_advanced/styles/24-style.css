@@ -293,8 +293,7 @@ a:active {
   color: var(--color-primary);
 }
 .card-services .card-title {
-  margin-left: 0;
-  margin-right: 0;
+  margin: 0;
 }
 .card-services a {
   display: block;
