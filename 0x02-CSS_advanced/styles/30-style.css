@@ -298,7 +298,7 @@ a:active {
 .nav .nav-link:hover {
   color: var(--nav-item-link-hover);
 }
-.nav .nav-link:hover::before {
+.nav .nav-item:hover > .nav-link::before {
   background-color: var(--color-primary);
   width: 100%;
 }

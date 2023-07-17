@@ -286,6 +286,9 @@ a:active {
   display: block;
   padding: 0.5rem 1rem;
 }
+.nav .nav-link:hover {
+  color: var(--nav-item-link-hover);
+}
 .nav .nav-link::before {
   content: '';
   position: absolute;
@@ -295,10 +298,8 @@ a:active {
   width: 0;
   height: 0.2rem;
 }
-.nav .nav-link:hover {
-  color: var(--nav-item-link-hover);
-}
-.nav .nav-link:hover::before {
+
+.nav .nav-item:hover > .nav-link::before {
   background-color: var(--color-primary);
   width: 100%;
 }
